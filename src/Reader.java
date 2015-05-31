@@ -21,10 +21,10 @@ public class Reader extends JFrame{
         l3 = new JLabel("");
         l4 = new JLabel("");
         t1 = new JTextField(10);
-        t1 = new JTextField(10);
+        t2 = new JTextField(10);
         add(b1);
         add(b2);
-        add(l2);
+        add(l1);
         add(t1);
         add(l2);
         add(t2);
